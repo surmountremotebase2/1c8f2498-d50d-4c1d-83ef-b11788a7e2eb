@@ -22,3 +22,4 @@ class TradingStrategy(Strategy):
             qqq_stake = 1
 
       return TargetAllocation({"TQQQ": qqq_stake})
+# hello
